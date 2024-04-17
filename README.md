@@ -52,7 +52,7 @@ Adafruit QT Py and Seeed Studios XIAO are microcontroller centered electronics i
 | [QT Py RP2040](https://www.adafruit.com/product/4900) | RP2040 | Yes | Yes | No | Stemma QT I2C Port |
 | [QT Py ESP32 Pico](https://www.adafruit.com/product/5395) | ESP32 Pico V3 02 | MicroPython | Yes | WiFi+BLE+BT | 8MB Flash, 2MB PSRAM, Stemma QT Port |
 | [QT Py ESP32-C3 WiFi](https://www.adafruit.com/product/5405) | ESP32-C3 | MicroPython | Yes | WiFi | Stemma QT I2C Port |
-| [QT Py ESP32-S2](https://www.adafruit.com/product/5325) | ESP32-S2 | Yes | Yes | WiFi | 4MB Flash, 2MB PSRAM, Stemma QT I2C |
+| [QT Py ESP32-S2](https://www.adafruit.com/product/5325) | ESP32-S2 | Yes | Yes | WiFi | 4MB Flash, 2MB PSRAM, Stemma QT I2C, chip antenna |
 | [QT Py ESP32-S2](https://www.adafruit.com/product/5348) | ESP32-S2 | Yes | Yes | WiFi | 4MB Flash, 2MB PSRAM, Stemma QT I2C, uFL antenna connector |
 | [QT Py S3](https://www.adafruit.com/product/5700) | ESP32-S3 | Yes | Yes | WiFi+BLE | 2MB PSRAM, Stemma QT Port
 | [QT Py ESP32-S3](https://www.adafruit.com/product/5426) | ESP32-S3 | Yes | Yes | WiFi+BLE | 8MB Flash, NO PSRAM, Stemma QT |
