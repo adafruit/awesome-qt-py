@@ -10,7 +10,7 @@ Adafruit QT Py and Seeed Studios XIAO are microcontroller centered electronics i
 
 ## Contents
 
-- [Guides and Learning](#guides-and-learning)
+- [Introduction and Social Media](#introduction-and-social-media)
 - [Community](#community)
 - [Code Frameworks](#code-frameworks)
 - [Compatible Hardware](#compatible-hardware)
@@ -19,11 +19,12 @@ Adafruit QT Py and Seeed Studios XIAO are microcontroller centered electronics i
 - [Development](#development)
 - [Contributing](#contributing)
 
-## Guides and Learning
+## Introduction and Social Media
 - [About QT Py Video Short](https://www.youtube.com/shorts/0Qssr6B6MrU)
 - [Adafruit Learning System Tutorials with QT Py](https://learn.adafruit.com/search?q=QT%20py)
-- [Seed Studio Blog on XIAO](https://www.seeedstudio.com/blog/?s=xiao)
-- [The UF2 File Format](https://github.com/microsoft/uf2) - the drag & drop to a flash disk capability.
+- [Adafruit Blog - posts on QT Py](https://blog.adafruit.com/?s=qt+py)
+- [Seeed Studio Blog - posts on XIAO](https://www.seeedstudio.com/blog/?s=xiao)
+- [The UF2 File Format](https://github.com/microsoft/uf2) - the drag & drop to flash disk capability.
 
 ## Community
 
