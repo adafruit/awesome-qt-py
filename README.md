@@ -45,7 +45,7 @@ Adafruit QT Py and Seeed Studios XIAO are microcontroller centered electronics i
 
 ## Compatible Hardware
 
-### Adafruit Processor QT Py
+### Adafruit QT Py Processor Boards
 
 | Name | Processor | CircuitPython | Arduino | Wireless | Features |
 |--------------------|------------------|---|---|---|---------------------------------|
@@ -57,6 +57,15 @@ Adafruit QT Py and Seeed Studios XIAO are microcontroller centered electronics i
 | [QT Py S3](https://www.adafruit.com/product/5700) | ESP32-S3 | Yes | Yes | WiFi+BLE | 2MB PSRAM, Stemma QT Port
 | [QT Py ESP32-S3](https://www.adafruit.com/product/5426) | ESP32-S3 | Yes | Yes | WiFi+BLE | 8MB Flash, NO PSRAM, Stemma QT |
 | [QT Py - SAMD21](https://www.adafruit.com/product/4600) | ATSAMD21E18 | Yes | Yes | No | Stemma QT I2C Port |
+
+### Seeed Studio XIAO Processor Boards
+
+| Name | Processor | CircuitPython | Arduino | Wireless | Features |
+|--------------------|------------------|---|---|---|---------------------------------|
+| [XIAO ESP32C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | ESP32-C3 | Yes | Yes | WiFi | u.FL Antenna |
+| [XIAO nRF52840](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html) | nRF52840 | Yes | Yes | WiFi+BLE | Chip Antenna |
+| [XIAO nRF52840 Sense](https://www.seeedstudio.com/Seeed-XIAO-BLE-Sense-nRF52840-p-5253.html) | nRF52840 | Yes | Yes | WiFi+BLE | Microphone and 6-DOF IMU |
+
 
 ## News
 - [Tom's Hardware Best RP2040 Boards 2024](https://www.tomshardware.com/best-picks/best-rp2040-boards) - Adafruit QT Py Rp2040 and Seeed XIAO RP2040, April 3, 2024
