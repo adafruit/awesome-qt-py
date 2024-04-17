@@ -66,7 +66,7 @@ Adafruit QT Py and Seeed Studios XIAO are microcontroller centered electronics i
 | [XIAO nRF52840](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html) | nRF52840 | Yes | Yes | WiFi+BLE | Chip Antenna |
 | [XIAO nRF52840 Sense](https://www.seeedstudio.com/Seeed-XIAO-BLE-Sense-nRF52840-p-5253.html) | nRF52840 | Yes | Yes | WiFi+BLE | Microphone and 6-DOF IMU |
 | [XIAO RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html) | RP2040 | Yes | Yes | No | NeoPixel LED |
-
+| [XIAO SAMD21](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html) | ATSAMD21G18 | Yes | Yes | No |    |
 
 ## News
 - [Tom's Hardware Best RP2040 Boards 2024](https://www.tomshardware.com/best-picks/best-rp2040-boards) - Adafruit QT Py Rp2040 and Seeed XIAO RP2040, April 3, 2024
