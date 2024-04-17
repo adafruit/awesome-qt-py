@@ -28,6 +28,9 @@ Adafruit QT Py and Seeed Studios XIAO are microcontroller centered electronics i
 
 ## Introduction and Social Media
 - [About QT Py Video Short](https://www.youtube.com/shorts/0Qssr6B6MrU)
+- [Original Tutorial on the Adafruit QT Py](https://learn.adafruit.com/adafruit-qt-py)
+
+
 - [Adafruit Learning System Tutorials with QT Py](https://learn.adafruit.com/search?q=QT%20py)
 - [Adafruit Blog - posts on QT Py](https://blog.adafruit.com/?s=qt+py)
 - [Seeed Studio Blog - posts on XIAO](https://www.seeedstudio.com/blog/?s=xiao)
