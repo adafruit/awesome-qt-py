@@ -55,7 +55,7 @@ Adafruit QT Py and Seeed Studios XIAO are microcontroller centered electronics i
 - [ESP32-C3 XIAO, the Smallest ESP32 Board, ESP32-C3 by Seeed Studio, XIAO ESP32-C3](https://www.youtube.com/watch?v=P215DJxGjQs)
 - [XIAO ESP32C6 Getting Started Tutorial, Seeed Studio, Smallest ESP32](https://www.youtube.com/watch?v=LnFYCHeL84w)
 - [Seeeduino XIAO - 32-bit Arduino-compatible Microcontroller](https://www.youtube.com/watch?v=pTwEnckaPYY)
-- [Unboxing and testing the Seeedstudio XIAO | nerdhut.de](https://www.youtube.com/watch?v=oqDOyln_4dE
+- [Unboxing and testing the Seeedstudio XIAO nerdhut.de](https://www.youtube.com/watch?v=oqDOyln_4dE)
 - [Seeed XIAO RP2040](https://www.youtube.com/watch?v=u61mOIfGdR8)
 
 ## Development
