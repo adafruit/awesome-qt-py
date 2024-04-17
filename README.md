@@ -67,16 +67,16 @@ Adafruit QT Py and Seeed Studios XIAO are microcontroller centered electronics i
 - [WiFiBoy OK:D51 Arcade](https://wifiboy.org/) - demonstration video on [YouTube](https://www.youtube.com/watch?v=irrZHRrMRgw)
 
 ## News
-- [BKLYN Fashion Academy Class of 2019 Shines at Runway Show](https://bklyner.com/bklyn-fashion-academy-class-of-2019-shines-at-runway-show/) - wearable technology sponsored by Microsoft’s QT Py, May 6, 2019
-- [Cartoon Network, Microsoft QT Py and Adafruit team up to create new coding projects for kids](https://www.latimes.com/entertainment/herocomplex/la-et-hc-cartoon-network-microsoft-adafruit-coding-20190107-story.html) - by Tracy Brown, LA Times, January 7, 2019.
+- [Tom's Hardware Best RP2040 Boards 2024](https://www.tomshardware.com/best-picks/best-rp2040-boards) - Adafruit QT Py Rp2040 and Seeed XIAO RP2040, April 3, 2024
+- [Adafruit QT Py RP2040 Review: A tiny board for great projects](https://www.tomshardware.com/reviews/adafruit-qt-py-rp2040-review) - by Les Pounder, April 18, 2021
 
 ## Videos
 - [hackster.io QT Py Unboxing](https://www.hackster.io/videos/769)
 - [Adafruit QT Py Videos](https://www.youtube.com/user/adafruit/search?query=QT Py) - includes John Park's QT Py Minute series.
 - [Adafruit QT Py - tiny but mighty](https://www.youtube.com/watch?v=dAYrv1azfT4)
-- [Behind the QT Py Hardware - Microphone on Circuit Playground Express](https://youtu.be/g5894PVYOF4) - narrated by Shawn Hymel.
-- [Behind the QT Py Hardware - Infrared on the Circuit Playground Express](https://youtu.be/0EMuaMClfos) - narrated by Shawn Hymel.
-- [Behind the QT Py Hardware - Light Sensor on the Circuit Playground Express](https://youtu.be/9LrWQ68lO20) - narrated by Shawn Hymel.
+- [First Look at the Adafruit QT Py RP2040 - Fantastic Tiny RP2040 Board](https://www.youtube.com/watch?v=qfbPyu_1L18)
+- [Adafruit QT PI SAMD21 Board](https://www.youtube.com/watch?v=qwKIxXVd0lc)
+- [The first ESP32-C3 QT Py off the machine line](hhttps://www.youtube.com/watch?v=whaBOyJfLSM)
 
 ## Development
 
