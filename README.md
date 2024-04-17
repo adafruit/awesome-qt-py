@@ -1,7 +1,7 @@
 # Work In Progress
 
 <h1 align="center">
-  <img width="150" src="https://github.com/adafruit/awesome-QT-Py/blob/master/assets/QT-Py.jpg" alt="Awesome QT Py"><br>Awesome QT Py
+  <img width="150" src="https://github.com/adafruit/awesome-QT-Py/blob/master/assets/qt-py.gif" alt="Awesome QT Py"><br>Awesome QT Py
 </h1>
 
 > A curated list of awesome Adafruit QT Py and Seeed Studio XIAO guides, hardware, software and resources.
@@ -20,7 +20,7 @@ Adafruit QT Py and Seeed Studios XIAO are microcontroller centered electronics i
 - [Contributing](#contributing)
 
 ## Guides and Learning
-- [About Microsoft QT Py](https://QT Py.com/about)
+- [About QT Py Video](https://www.youtube.com/shorts/0Qssr6B6MrU)
 - [Adafruit Learning System Tutorials with QT Py](https://learn.adafruit.com/search?q=QT Py)
 - [Technical Documentation](https://QT Py.com/docs)
 - [The UF2 File Format](https://github.com/microsoft/uf2) - the drag & drop to a flash disk capability.
@@ -71,9 +71,9 @@ Adafruit QT Py and Seeed Studios XIAO are microcontroller centered electronics i
 - [Cartoon Network, Microsoft QT Py and Adafruit team up to create new coding projects for kids](https://www.latimes.com/entertainment/herocomplex/la-et-hc-cartoon-network-microsoft-adafruit-coding-20190107-story.html) - by Tracy Brown, LA Times, January 7, 2019.
 
 ## Videos
-- [Microsoft QT Py YouTube Channel](https://www.youtube.com/channel/UCye7YlvFUUQ1dSy0WZZ1T_Q)
+- [hackster.io QT Py Unboxing](https://www.hackster.io/videos/769)
 - [Adafruit QT Py Videos](https://www.youtube.com/user/adafruit/search?query=QT Py) - includes John Park's QT Py Minute series.
-- [Adafruit and John Park's QT Py Arcade Game of the Week Playlist](https://www.youtube.com/playlist?list=PLjF7R1fz_OOUpC_QY_Y5CmPKm-a5Cg4Qo)
+- [Adafruit QT Py - tiny but mighty](https://www.youtube.com/watch?v=dAYrv1azfT4)
 - [Behind the QT Py Hardware - Microphone on Circuit Playground Express](https://youtu.be/g5894PVYOF4) - narrated by Shawn Hymel.
 - [Behind the QT Py Hardware - Infrared on the Circuit Playground Express](https://youtu.be/0EMuaMClfos) - narrated by Shawn Hymel.
 - [Behind the QT Py Hardware - Light Sensor on the Circuit Playground Express](https://youtu.be/9LrWQ68lO20) - narrated by Shawn Hymel.
