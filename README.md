@@ -65,6 +65,7 @@ Adafruit QT Py and Seeed Studios XIAO are microcontroller centered electronics i
 | [XIAO ESP32C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | ESP32-C3 | Yes | Yes | WiFi | u.FL Antenna |
 | [XIAO nRF52840](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html) | nRF52840 | Yes | Yes | WiFi+BLE | Chip Antenna |
 | [XIAO nRF52840 Sense](https://www.seeedstudio.com/Seeed-XIAO-BLE-Sense-nRF52840-p-5253.html) | nRF52840 | Yes | Yes | WiFi+BLE | Microphone and 6-DOF IMU |
+| [XIAO RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html) | Yes | Yes | No | NeoPixel LED |
 
 
 ## News
