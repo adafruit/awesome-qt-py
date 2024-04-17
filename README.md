@@ -48,7 +48,7 @@ Adafruit QT Py and Seeed Studios XIAO are microcontroller centered electronics i
 ### Specific Hardware Platforms
 
 | Name | Processor | CircuitPython | Arduino | Wireless | Features |
-|---|---|---|---|---|---|
+|----------------|------------------|---|---|---|---------------------------------|
 | test | RP2040 | Yes | Yes | No | STEMMA QT Port |
 
 ## News
