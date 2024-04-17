@@ -49,7 +49,6 @@ Adafruit QT Py and Seeed Studios XIAO are microcontroller centered electronics i
 
 | Name | Processor | CircuitPython | Arduino | Wireless | Features |
 |--------------------|------------------|---|---|---|---------------------------------|
-| test | RP2040 | Yes | Yes | No | STEMMA QT Port |
 | [QT Py RP2040](https://www.adafruit.com/product/4900) | RP2040 | Yes | Yes | No | Stemma QT I2C Port |
 | [QT Py ESP32 Pico](https://www.adafruit.com/product/5395) | ESP32 Pico V3 02 | MicroPython | Yes | WiFi+BLE+BT | 8MB Flash, 2MB PSRAM, Stemma QT Port |
 | [QT Py ESP32-C3 WiFi](https://www.adafruit.com/product/5405) | ESP32-C3 | MicroPython | Yes | WiFi | Stemma QT I2C Port |
