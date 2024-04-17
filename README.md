@@ -44,6 +44,7 @@ Adafruit QT Py and Seeed Studios XIAO are microcontroller centered electronics i
 - [Adafruit QT Py RP2040 Review: A tiny board for great projects](https://www.tomshardware.com/reviews/adafruit-qt-py-rp2040-review) - by Les Pounder, April 18, 2021
 
 ## Videos
+
 - [hackster.io QT Py Unboxing](https://www.hackster.io/videos/769)
 - [QT Py Videos on YouTube](https://www.youtube.com/results?search_query=qt+py)
 - [Adafruit QT Py - tiny but mighty](https://www.youtube.com/watch?v=dAYrv1azfT4)
