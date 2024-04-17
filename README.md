@@ -21,9 +21,9 @@ Adafruit QT Py and Seeed Studios XIAO are microcontroller centered electronics i
 
 ## Typical Specifications
 
-Dimensions: 21.8mm x 17.8mm x 5.8mm / 0.9" x 0.7" x 0.2"
-Board pins: 14 (7x2) on a 0.1 inch spacing
-USB: USB-C Connector
+- Dimensions: 21.8mm x 17.8mm x 5.8mm / 0.9" x 0.7" x 0.2"
+- Board pins: 14 (7x2) on a 0.1 inch spacing
+- USB: USB-C Connector
 
 ## Introduction and Social Media
 - [About QT Py Video Short](https://www.youtube.com/shorts/0Qssr6B6MrU)
