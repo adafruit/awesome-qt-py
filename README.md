@@ -76,7 +76,7 @@ Adafruit QT Py and Seeed Studios XIAO are microcontroller centered electronics i
 - [Adafruit QT Py - tiny but mighty](https://www.youtube.com/watch?v=dAYrv1azfT4)
 - [First Look at the Adafruit QT Py RP2040 - Fantastic Tiny RP2040 Board](https://www.youtube.com/watch?v=qfbPyu_1L18)
 - [Adafruit QT PI SAMD21 Board](https://www.youtube.com/watch?v=qwKIxXVd0lc)
-- [The first ESP32-C3 QT Py off the machine line](hhttps://www.youtube.com/watch?v=whaBOyJfLSM)
+- [The first ESP32-C3 QT Py off the machine line](https://www.youtube.com/watch?v=whaBOyJfLSM)
 
 ## Development
 
