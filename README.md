@@ -78,7 +78,7 @@ Adafruit calls their QT Py size add-on boards BFF
 
 | Company | Name  | Features |
 |---|---|---|
-| Adafruit | EYESPI BFF for QT Py or Xiao | 18 Pin EYESPI FPC Connector for connecting displays |
+| Adafruit | [EYESPI BFF for QT Py or Xiao](https://www.adafruit.com/product/5772) | 18 Pin EYESPI FPC Connector for connecting displays |
 
 
 
