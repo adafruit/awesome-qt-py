@@ -1,7 +1,7 @@
 # Work In Progress
 
 <h1 align="center">
-  <img width="150" src="https://github.com/adafruit/awesome-QT-Py/blob/master/assets/qt-py.gif" alt="Awesome QT Py"><br>Awesome QT Py
+  <img width="150" src="https://github.com/adafruit/awesome-qt-py/blob/master/assets/qt-py.gif" alt="Awesome QT Py"><br>Awesome QT Py
 </h1>
 
 > A curated list of awesome Adafruit QT Py and Seeed Studio XIAO guides, hardware, software and resources.
