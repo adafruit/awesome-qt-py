@@ -88,9 +88,16 @@ Adafruit calls their QT Py size add-on boards "BFF"
 | Adafruit | [NeoPixel Driver BFF Add-On for QT Py and Xiao](https://www.adafruit.com/product/5645) | Level shift signal to 5V for NeoPixel LED driving |
 | Adafruit | [I2S Amplifier BFF Add-On for QT Py and Xiao](https://www.adafruit.com/product/5770) | MAX98357 audio amplifier and picoblade speaker connector |
 | Adafruit | [5x5 NeoPixel Grid BFF Add-On for QT Py and Xiao](https://www.adafruit.com/product/5646) | 25 (5x5) small RGB LEDs |
-| Adafruit | []() |  |
-| Adafruit | []() |  |
-| Adafruit | []() |  |
+| Seeed Studio | [Expansion Board Base for XIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Expansion-board-p-4746.html) | Grove OLED - IIC, Uart, Analog/Digital |
+| Seeed Studio | [CAN Bus Breakout Board for XIAO and QT Py](https://www.seeedstudio.com/Seeed-Studio-CAN-Bus-Breakout-Board-for-XIAO-and-QT-Py-p-5702.html) | MCP2515 controller, SN65HVD230 transceiver chip, terminal blocks |
+| Seeed Studio | [Grove Base for XIAO](https://www.seeedstudio.com/Grove-Shield-for-Seeeduino-XIAO-p-4621.html) | 4/8 Grove ports + embedded battery management chip |
+| Seeed Studio | []() |  |
+| Seeed Studio | []() |  |
+| Seeed Studio | []() |  |
+| Seeed Studio | []() |  |
+| Seeed Studio | []() |  |
+| Seeed Studio | []() |  |
+| Seeed Studio | []() |  |
 
 ## News
 - [Tom's Hardware Best RP2040 Boards 2024](https://www.tomshardware.com/best-picks/best-rp2040-boards) - Adafruit QT Py Rp2040 and Seeed XIAO RP2040, April 3, 2024
