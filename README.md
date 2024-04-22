@@ -42,6 +42,8 @@ Adafruit QT Py and Seeed Studios XIAO are microcontroller centered electronics i
 - [QT Py on X/Twitter](https://twitter.com/search?q=qt%20py&src=typed_query)
 - [Seeed XIAO on X/Twitter](https://twitter.com/search?q=seeed%20xiao&src=typed_query&f=top)
 - [Adafruit Discord](https://adafru.it/discord) - Search on QT Py or XIAO
+- [Seeed Studio Forum on XIAO](https://forum.seeedstudio.com/c/products/xiao/91)
+- [Adafruit Forums](https://forums.adafruit.com/) - Use Other Adafruit Boards for hardware, CircuitPython or Arduino
 
 ## Processor Boards
 
