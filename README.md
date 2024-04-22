@@ -95,14 +95,16 @@ Adafruit calls their QT Py size add-on boards "BFF"
 | Seeed Studio | [24GHz mmWave Sensor for XIAO](https://www.seeedstudio.com/Seeed-Studio-24GHz-mmWave-for-XIAO-p-5830.html) | Human Static Presence |
 | Seeed Studio | [ePaper Breakout Board](https://www.seeedstudio.com/ePaper-Breakout-Board-p-5804.html) | 24-pin FPC connection, addt'l 8-pin 2.54 header |
 | Seeed Studio | [GNSS add on Module for XIAO](https://www.seeedstudio.com/L76K-GNSS-Module-for-Seeed-Studio-XIAO-p-5864.html) | L76K GNSS Module, global tracking GPS, BeiDou, GLONASS, and QZSS |
-| Evil Genius Labs | [Fibonacci64 Nano](https://www.evilgeniuslabs.org/fibonacci64-nano) | 64 RGB LEDs in a Fibonacci distribution |
 | Evil Genius Labs | [One Inch Fibonacci64](https://www.evilgeniuslabs.org/one-inch-fibonacci64) | 64 RGB LEDs in a Fibonacci distribution |
 | Evil Genius Labs | [One Inch Fibonacci32](https://www.evilgeniuslabs.org/one-inch-fibonacci32) | 32 RGB LEDs in a Fibonacci distribution |
 | Evil Genius Labs | [Mega CycloHex](https://www.evilgeniuslabs.org/mega-cyclohex) | Hexagonally-nested rings with 228 RGB LEDs, 6 touch pads via an Adafruit QT Py SAMD21 |
 | Evil Genius Labs | [CycloHex](https://www.evilgeniuslabs.org/cyclohex) | Hexagonally-nested rings with 228 RGB LEDs, 6 touch pads via an Adafruit QT Py SAMD21 |
-| Evil Genius Labs | []() |  |
-| Evil Genius Labs | []() |  |
-| Evil Genius Labs | []() |  |
+| Evil Genius Labs | [Fibonacci64 Flower](https://www.evilgeniuslabs.org/fibonacci64-flower) | 64 RGB LEDs in a Fibonacci distribution |
+| Evil Genius Labs | [Fibonacci64 50mm Goggle Lens](https://www.evilgeniuslabs.org/fibonacci64-goggles) |  50mm circular disc with 64 RGB LEDs in a Fibonacci distribution |
+| Evil Genius Labs | [Fibonacci182 Card](https://www.evilgeniuslabs.org/fibonacci182-card) | 182 RGB LEDs in a Fibonacci distribution |
+| Evil Genius Labs | [Fibonacci64 Micro HDR](https://www.evilgeniuslabs.org/fibonacci64-micro-hdr) | 64 RGB LEDs in a Fibonacci distribution |
+| Evil Genius Labs | [Fibonacci64 Micro](https://www.evilgeniuslabs.org/fibonacci64-micro) | 64 RGB LEDs in a Fibonacci distribution |
+| Evil Genius Labs | [Fibonacci64 Nano](https://www.evilgeniuslabs.org/fibonacci64-nano) | 64 RGB LEDs in a Fibonacci distribution |
 
 ## News
 - [Tom's Hardware Best RP2040 Boards 2024](https://www.tomshardware.com/best-picks/best-rp2040-boards) - Adafruit QT Py Rp2040 and Seeed XIAO RP2040, April 3, 2024
