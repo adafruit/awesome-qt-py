@@ -79,7 +79,7 @@ Adafruit calls their QT Py size add-on boards BFF
 | Company | Name  | Features |
 |---|---|---|
 | Adafruit | [EYESPI BFF for QT Py or Xiao](https://www.adafruit.com/product/5772) | 18 Pin EYESPI FPC Connector for connecting displays |
-| Adafruit | [Audio BFF Add-on for QT Py and Xiao](https://www.adafruit.com/product/5769) | MAX98357 3 watt audio amplifier, microSD slot  |
+| Adafruit | [Audio BFF Add-on for QT Py and Xiao](https://www.adafruit.com/product/5769) | MAX98357 3 watt audio amplifier, microSD slot, connector for speaker |
 
 
 ## News
