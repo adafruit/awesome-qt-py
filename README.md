@@ -86,9 +86,8 @@ Adafruit calls their QT Py size add-on boards "BFF"
 | Adafruit | [DC Power BFF Add-On for QT Py](https://www.adafruit.com/product/5882) | Power a QT Py or XIAO up to 20 volts DC |
 | Adafruit | [CAN Bus BFF Add-On for QT Py](https://www.adafruit.com/product/5877) | MCP26525 CAN controller+transceiver and connector |
 | Adafruit | [NeoPixel Driver BFF Add-On for QT Py and Xiao](https://www.adafruit.com/product/5645) | Level shift signal to 5V for NeoPixel LED driving |
-| Adafruit | []() |  |
-| Adafruit | []() |  |
-| Adafruit | []() |  |
+| Adafruit | [I2S Amplifier BFF Add-On for QT Py and Xiao](https://www.adafruit.com/product/5770) | MAX98357 audio amplifier and picoblade speaker connector |
+| Adafruit | [5x5 NeoPixel Grid BFF Add-On for QT Py and Xiao](https://www.adafruit.com/product/5646) | 25 (5x5) small RGB LEDs |
 | Adafruit | []() |  |
 | Adafruit | []() |  |
 | Adafruit | []() |  |
