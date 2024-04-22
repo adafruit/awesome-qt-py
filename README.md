@@ -57,6 +57,7 @@ Adafruit QT Py and Seeed Studios XIAO are microcontroller centered electronics i
 | [QT Py S3](https://www.adafruit.com/product/5700) | ESP32-S3 | Yes | Yes | WiFi+BLE | 2MB PSRAM, Stemma QT Port
 | [QT Py ESP32-S3](https://www.adafruit.com/product/5426) | ESP32-S3 | Yes | Yes | WiFi+BLE | 8MB Flash, NO PSRAM, Stemma QT |
 | [QT Py - SAMD21](https://www.adafruit.com/product/4600) | ATSAMD21E18 | Yes | Yes | No | Stemma QT I2C Port |
+| CH552 QT Py | CH552 | No | Yes | No | Announced |
 
 ### Seeed Studio XIAO Processor Boards
 
