@@ -107,6 +107,7 @@ Adafruit calls their QT Py size add-on boards "BFF"
 | Evil Genius Labs | [Fibonacci64 Micro](https://www.evilgeniuslabs.org/fibonacci64-micro) | 64 RGB LEDs in a Fibonacci distribution |
 | Evil Genius Labs | [Fibonacci64 Nano](https://www.evilgeniuslabs.org/fibonacci64-nano) | 64 RGB LEDs in a Fibonacci distribution |
 | Cyborg5 / OSH Park | [IRHat2](https://oshpark.com/shared_projects/YQg2CQxf) | IoT Infrared Remote using Raspberry Pi Zero W and Adafruit QT Py Hat described [here](https://learn.adafruit.com/iot-ir-remote-using-raspberry-pi-zero-w-and-qtpy-hat/) |
+| SparkFun | [WVR Audio Development Board - USB Host Version](https://www.sparkfun.com/products/21308) | A sample player powered by an ESP32. XIAO is USB Host |
 
 ## News
 - [Tom's Hardware Best RP2040 Boards 2024](https://www.tomshardware.com/best-picks/best-rp2040-boards) - Adafruit QT Py Rp2040 and Seeed XIAO RP2040, April 3, 2024
