@@ -91,7 +91,7 @@ Adafruit calls their QT Py size add-on boards "BFF"
 | Seeed Studio | [Expansion Board Base for XIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Expansion-board-p-4746.html) | Grove OLED - IIC, Uart, Analog/Digital |
 | Seeed Studio | [CAN Bus Breakout Board for XIAO and QT Py](https://www.seeedstudio.com/Seeed-Studio-CAN-Bus-Breakout-Board-for-XIAO-and-QT-Py-p-5702.html) | MCP2515 controller, SN65HVD230 transceiver chip, terminal blocks |
 | Seeed Studio | [Grove Base for XIAO](https://www.seeedstudio.com/Grove-Shield-for-Seeeduino-XIAO-p-4621.html) | 4/8 Grove ports + embedded battery management chip |
-| Seeed Studio | []() |  |
+| Seeed Studio | [Round Display for XIAO - 1.28-inch round touch screen](https://www.seeedstudio.com/Seeed-Studio-Round-Display-for-XIAO-p-5638.html) | 240×240 resolution, RTC, charge IC, TF card slot |
 | Seeed Studio | []() |  |
 | Seeed Studio | []() |  |
 | Seeed Studio | []() |  |
