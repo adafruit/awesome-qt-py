@@ -88,8 +88,8 @@ Adafruit calls their QT Py size add-on boards "BFF"
 | Adafruit | [NeoPixel Driver BFF Add-On for QT Py and Xiao](https://www.adafruit.com/product/5645) | Level shift signal to 5V for NeoPixel LED driving |
 | Adafruit | [I2S Amplifier BFF Add-On for QT Py and Xiao](https://www.adafruit.com/product/5770) | MAX98357 audio amplifier and picoblade speaker connector |
 | Adafruit | [5x5 NeoPixel Grid BFF Add-On for QT Py and Xiao](https://www.adafruit.com/product/5646) | 25 (5x5) small RGB LEDs |
-| Adafruit | []() |  |
-| Adafruit | []() |  |
+| Adafruit | [LiIon or LiPoly Charger BFF Add-On for QT Py](https://www.adafruit.com/product/5397) | LiPo battery use |
+| Adafruit | [IoT Button with NeoPixel BFF Add-On for QT Py and Xiao](https://www.adafruit.com/product/5666) | Provides a button and one RGB LED NeoPixel |
 | Adafruit | []() |  |
 
 ## News
