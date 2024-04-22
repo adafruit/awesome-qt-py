@@ -84,7 +84,14 @@ Adafruit calls their QT Py size add-on boards "BFF"
 | Adafruit | [NeoKey BFF for Mechanical Key Add-On](https://www.adafruit.com/product/5695) | Add a Cherry MX compatible switch |
 | Adafruit | [BNO055 + BMP280 BFF Add-On for QT Py](https://www.adafruit.com/product/5937) | 9 degree-of-freedom (9DoF) motion plus pressure/altitude sensing |
 | Adafruit | [DC Power BFF Add-On for QT Py](https://www.adafruit.com/product/5882) | Power a QT Py or XIAO up to 20 volts DC |
-
+| Adafruit | [CAN Bus BFF Add-On for QT Py](https://www.adafruit.com/product/5877) | MCP26525 CAN controller+transceiver and connector |
+| Adafruit | [NeoPixel Driver BFF Add-On for QT Py and Xiao](https://www.adafruit.com/product/5645) | Level shift signal to 5V for NeoPixel LED driving |
+| Adafruit | []() |  |
+| Adafruit | []() |  |
+| Adafruit | []() |  |
+| Adafruit | []() |  |
+| Adafruit | []() |  |
+| Adafruit | []() |  |
 
 ## News
 - [Tom's Hardware Best RP2040 Boards 2024](https://www.tomshardware.com/best-picks/best-rp2040-boards) - Adafruit QT Py Rp2040 and Seeed XIAO RP2040, April 3, 2024
