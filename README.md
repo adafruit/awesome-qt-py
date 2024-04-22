@@ -79,9 +79,12 @@ Adafruit calls their QT Py size add-on boards "BFF"
 | Company | Name  | Features |
 |---|---|---|
 | Adafruit | [EYESPI BFF for QT Py or Xiao](https://www.adafruit.com/product/5772) | 18 Pin EYESPI FPC Connector for connecting displays |
+| Adafruit | [microSD Card BFF Add-On for QT Py and Xiao](https://www.adafruit.com/product/5683) | Provides a microSD card slot |
 | Adafruit | [Audio BFF Add-on for QT Py and Xiao](https://www.adafruit.com/product/5769) | MAX98357 3 watt audio amplifier, microSD slot, connector for speaker |
 | Adafruit | [NeoKey BFF for Mechanical Key Add-On](https://www.adafruit.com/product/5695) | Add a Cherry MX compatible switch |
 | Adafruit | [BNO055 + BMP280 BFF Add-On for QT Py](https://www.adafruit.com/product/5937) | 9 degree-of-freedom (9DoF) motion plus pressure/altitude sensing |
+| Adafruit | [DC Power BFF Add-On for QT Py](https://www.adafruit.com/product/5882) | Power a QT Py or XIAO up to 20 volts DC |
+
 
 ## News
 - [Tom's Hardware Best RP2040 Boards 2024](https://www.tomshardware.com/best-picks/best-rp2040-boards) - Adafruit QT Py Rp2040 and Seeed XIAO RP2040, April 3, 2024
