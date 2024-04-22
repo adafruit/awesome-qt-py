@@ -136,6 +136,7 @@ Adafruit calls their QT Py size add-on boards "BFF"
 ## Development
 
 - ["Hello XIAO" in PlatformIO](https://sigmdel.ca/michel/ha/xiao/seeeduino_xiao_platformio2_en.html)
+- [Creating XIAO Components on Flux.ai](https://wiki.seeedstudio.com/PCB_Design_XIAO/)
 
 ## Contributing
 
