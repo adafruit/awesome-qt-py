@@ -30,11 +30,10 @@ Adafruit QT Py and Seeed Studios XIAO are microcontroller centered electronics i
 ## Introduction and Social Media
 - [About QT Py Video Short](https://www.youtube.com/shorts/0Qssr6B6MrU)
 - [Original Tutorial on the Adafruit QT Py](https://learn.adafruit.com/adafruit-qt-py)
-
-
 - [Adafruit Learning System Tutorials with QT Py](https://learn.adafruit.com/search?q=QT%20py)
 - [Adafruit Blog - posts on QT Py](https://blog.adafruit.com/?s=qt+py)
 - [Seeed Studio Blog - posts on XIAO](https://www.seeedstudio.com/blog/?s=xiao)
+- [Getting Started with Seeed Studio XIAO SAMD21](https://wiki.seeedstudio.com/Seeeduino-XIAO/)
 - [The UF2 File Format](https://github.com/microsoft/uf2) - the drag & drop to flash disk capability.
 
 ## Community
@@ -91,13 +90,11 @@ Adafruit calls their QT Py size add-on boards "BFF"
 | Seeed Studio | [Expansion Board Base for XIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Expansion-board-p-4746.html) | Grove OLED - IIC, Uart, Analog/Digital |
 | Seeed Studio | [CAN Bus Breakout Board for XIAO and QT Py](https://www.seeedstudio.com/Seeed-Studio-CAN-Bus-Breakout-Board-for-XIAO-and-QT-Py-p-5702.html) | MCP2515 controller, SN65HVD230 transceiver chip, terminal blocks |
 | Seeed Studio | [Grove Base for XIAO](https://www.seeedstudio.com/Grove-Shield-for-Seeeduino-XIAO-p-4621.html) | 4/8 Grove ports + embedded battery management chip |
-| Seeed Studio | [Round Display for XIAO - 1.28-inch round touch screen](https://www.seeedstudio.com/Seeed-Studio-Round-Display-for-XIAO-p-5638.html) | 240×240 resolution, RTC, charge IC, TF card slot |
-| Seeed Studio | []() |  |
-| Seeed Studio | []() |  |
-| Seeed Studio | []() |  |
-| Seeed Studio | []() |  |
-| Seeed Studio | []() |  |
-| Seeed Studio | []() |  |
+| Seeed Studio | [Round Display for XIAO - 1.28-inch round touch screen](https://www.seeedstudio.com/Seeed-Studio-Round-Display-for-XIAO-p-5638.html) | 240×240 resolution, 65k colors, RTC, charge IC, TF card slot |
+| Seeed Studio | [6x10 RGB MATRIX for XIAO](https://www.seeedstudio.com/6x10-RGB-MATRIX-for-XIAO-p-5771.html) | 60 LEDs onboard, 1m*1m WS2812B LED |
+| Seeed Studio | [24GHz mmWave Sensor for XIAO](https://www.seeedstudio.com/Seeed-Studio-24GHz-mmWave-for-XIAO-p-5830.html) | Human Static Presence |
+| Seeed Studio | [ePaper Breakout Board](https://www.seeedstudio.com/ePaper-Breakout-Board-p-5804.html) | 24-pin FPC connection, addt'l 8-pin 2.54 header |
+| Seeed Studio | [GNSS add on Module for XIAO](https://www.seeedstudio.com/L76K-GNSS-Module-for-Seeed-Studio-XIAO-p-5864.html) | L76K GNSS Module, global tracking GPS, BeiDou, GLONASS, and QZSS |
 
 ## News
 - [Tom's Hardware Best RP2040 Boards 2024](https://www.tomshardware.com/best-picks/best-rp2040-boards) - Adafruit QT Py Rp2040 and Seeed XIAO RP2040, April 3, 2024
@@ -114,7 +111,7 @@ Adafruit calls their QT Py size add-on boards "BFF"
 - [Adafruit QT PI SAMD21 Board](https://www.youtube.com/watch?v=qwKIxXVd0lc)
 - [The first ESP32-C3 QT Py off the machine line](https://www.youtube.com/watch?v=whaBOyJfLSM)
 
-XIAO
+## XIAO
 
 - [Seeeduino XIAO the Smallest Arduino, Getting Started Tutorial, Pinout, specifications, & Arduino IDE](https://www.youtube.com/watch?v=t1XsDqZjuQo)
 - [ESP32-C3 XIAO, the Smallest ESP32 Board, ESP32-C3 by Seeed Studio, XIAO ESP32-C3](https://www.youtube.com/watch?v=P215DJxGjQs)
@@ -125,6 +122,7 @@ XIAO
 
 ## Development
 
+- ["Hello XIAO" in PlatformIO](https://sigmdel.ca/michel/ha/xiao/seeeduino_xiao_platformio2_en.html)
 
 ## Contributing
 
