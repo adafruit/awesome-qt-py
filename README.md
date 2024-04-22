@@ -1,5 +1,3 @@
-# Work In Progress
-
 <h1 align="center">
   <img src="https://github.com/adafruit/awesome-qt-py/blob/main/assets/qt-py2.gif" alt="Awesome QT Py"><br>Awesome QT Py
 </h1>
