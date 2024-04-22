@@ -15,6 +15,7 @@ Adafruit QT Py and Seeed Studios XIAO are microcontroller centered electronics i
 - [Community](#community)
 - [Processor Boards](#processor-boards)
 - [Add-on Boards](#add-on-boards)
+- [Accessories](#accessories)
 - [In the news](#news)
 - [Videos](#videos)
 - [Development](#development)
