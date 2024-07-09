@@ -115,6 +115,7 @@ Adafruit calls their QT Py size add-on boards "BFF"
 | Company | Name  | Features |
 |---|---|---|
 | Printables | [Case for Adafruit QT PY RP2040 and Seeed XIAO RP2040](https://www.printables.com/en/model/166430-case-for-adafruit-qt-py-rp2040-and-seeed-xiao-rp20/comments/363061) | 3D printable case |
+| Solder Party | [Xiao/QTPy FlexyPin Adapter](https://lectronz.com/products/xiao-qtpy-flexypin-adapter) | A breadboard adapter that doesn't require headers to be soldered to the QtPy |
 
 ## News
 - [Tom's Hardware Best RP2040 Boards 2024](https://www.tomshardware.com/best-picks/best-rp2040-boards) - Adafruit QT Py Rp2040 and Seeed XIAO RP2040, April 3, 2024
