@@ -77,7 +77,7 @@ Adafruit QT Py and Seeed Studios XIAO are microcontroller centered electronics i
 
 | Name | Processor | CircuitPython | Arduino | Wireless | Features |
 |--------------------|------------------|---|---|---|---------------------------------|
-| [Phyx LANA TNY](https://lectronz.com/products/lana-tny) | WCH CH32V203 | No | Yes | No | Neopixel, Stemma QT/Qwiic |
+| [Phyx LANA TNY](https://lectronz.com/products/lana-tny) | WCH CH32V203 | No | Yes | No | NeoPixel, Stemma QT/Qwiic |
 
 ## Add-on Boards
 
