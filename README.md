@@ -73,6 +73,12 @@ Adafruit QT Py and Seeed Studios XIAO are microcontroller centered electronics i
 | [XIAO ESP32S3](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html) | ESP32-S3 | No | Yes | WiFi+BLE | Chip + u.FL Antenna |
 | [XIAO ESP32S3 Sense](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html) | ESP32-S3 | No | Yes | WiFi+BLE | Camera, Microphone, u.FL Antenna |
 
+### Other Processor Boards
+
+| Name | Processor | CircuitPython | Arduino | Wireless | Features |
+|--------------------|------------------|---|---|---|---------------------------------|
+| [Phyx LANA TNY](https://lectronz.com/products/lana-tny) | WCH CH32V203 | No | Yes | No | Neopixel, Stemma QT/Qwiic |
+
 ## Add-on Boards
 
 Adafruit calls their QT Py size add-on boards "BFF"
