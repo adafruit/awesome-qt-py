@@ -57,8 +57,8 @@ Adafruit QT Py and Seeed Studios XIAO are microcontroller centered electronics i
 | [QT Py ESP32-S2](https://www.adafruit.com/product/5348) | ESP32-S2 | Yes | Yes | WiFi | 4MB Flash, 2MB PSRAM, Stemma QT I2C, uFL antenna connector |
 | [QT Py S3](https://www.adafruit.com/product/5700) | ESP32-S3 | Yes | Yes | WiFi+BLE | 2MB PSRAM, Stemma QT Port
 | [QT Py ESP32-S3](https://www.adafruit.com/product/5426) | ESP32-S3 | Yes | Yes | WiFi+BLE | 8MB Flash, NO PSRAM, Stemma QT |
-| [QT Py - SAMD21](https://www.adafruit.com/product/4600) | ATSAMD21E18 | Yes | Yes | No | Stemma QT I2C Port |
-| CH552 QT Py | CH552 | No | Yes | No | Announced |
+| [QT Py - SAMD21](https://www.adafruit.com/product/4600) | ATSAMD21E18 | Yes | Yes | No | NeoPixel LED, Stemma QT I2C Port |
+| [CH552 QT Py](https://www.adafruit.com/product/5960) | CH552 | No | Yes | No | NeoPixel LED, Stemma QT I2C Port |
 
 ### Seeed Studio XIAO Processor Boards
 
@@ -73,6 +73,9 @@ Adafruit QT Py and Seeed Studios XIAO are microcontroller centered electronics i
 | [XIAO SAMD21](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html) | ATSAMD21G18 | Yes | Yes | No |    |
 | [XIAO ESP32S3](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html) | ESP32-S3 | No | Yes | WiFi+BLE | Chip + u.FL Antenna |
 | [XIAO ESP32S3 Sense](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html) | ESP32-S3 | No | Yes | WiFi+BLE | Camera, Microphone, u.FL Antenna |
+| [XIAO MG24](https://www.seeedstudio.com/Seeed-Studio-XIAO-MG24-p-6247.html) | EFR32MG24 | No | Yes | BLE | u.FL Antenna |
+| [XIAO MG24 Sense](https://www.seeedstudio.com/Seeed-XIAO-MG24-Sense-p-6248.html) | EFR32MG24 | No | Yes | BLE | Microphone, 6-DOF IMU, u.FL Antenna |
+| [XIAO RA4M1](https://www.seeedstudio.com/Seeed-XIAO-RA4M1-p-5943.html) | RA4M1 | No | Yes | No |   |
 
 ### Other Processor Boards
 
