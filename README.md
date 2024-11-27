@@ -34,12 +34,16 @@ Adafruit QT Py and Seeed Studios XIAO are microcontroller centered electronics i
 - [Seeed Studio Blog - posts on XIAO](https://www.seeedstudio.com/blog/?s=xiao)
 - [Seeed Studio XIAO Introduction](https://wiki.seeedstudio.com/SeeedStudio_XIAO_Series_Introduction/)
 - [Getting Started with Seeed Studio XIAO SAMD21](https://wiki.seeedstudio.com/Seeeduino-XIAO/)
+- [Seeed Studio XIAO Compatible Software](https://wiki.seeedstudio.com/xiao_topic_page/)
+- [Seeed Studio XIAO Product Ecosystem](https://www.seeedstudio.com/xiao-series-page)
+- [XIAO Selector: How to Select the Right XIAO](https://www.seeedstudio.com/xiao-selector)
 
 ## Community
 
 - [/r/Adafruit QT Py Reddit](https://www.reddit.com/r/adafruit/search/?q=qt+py) 
 - [QT Py on X/Twitter](https://twitter.com/search?q=qt%20py&src=typed_query)
 - [Seeed XIAO on X/Twitter](https://twitter.com/search?q=seeed%20xiao&src=typed_query&f=top)
+- [r/tinyXIAO Reddit](https://www.reddit.com/r/tinyXIAO/)
 - [Adafruit Discord](https://adafru.it/discord) - Search on QT Py or XIAO
 - [Seeed Studio Forum on XIAO](https://forum.seeedstudio.com/c/products/xiao/91)
 - [Adafruit Forums](https://forums.adafruit.com/) - Use Other Adafruit Boards for hardware, CircuitPython or Arduino
@@ -108,6 +112,9 @@ Adafruit calls their QT Py size add-on boards "BFF"
 | Seeed Studio | [24GHz mmWave Sensor for XIAO](https://www.seeedstudio.com/Seeed-Studio-24GHz-mmWave-for-XIAO-p-5830.html) | Human Static Presence |
 | Seeed Studio | [ePaper Breakout Board](https://www.seeedstudio.com/ePaper-Breakout-Board-p-5804.html) | 24-pin FPC connection, addt'l 8-pin 2.54 header |
 | Seeed Studio | [GNSS add on Module for XIAO](https://www.seeedstudio.com/L76K-GNSS-Module-for-Seeed-Studio-XIAO-p-5864.html) | L76K GNSS Module, global tracking GPS, BeiDou, GLONASS, and QZSS |
+| Seeed Studio | [ReSpeaker Lite USB 2-Mic Array](https://www.seeedstudio.com/ReSpeaker-Lite-p-5928.html) | 2-Mic array based on XMOS' audio processing algorithms
+| Seeed Studio | [Grove Smart IR Gesture Sensor](https://www.seeedstudio.com/Grove-Smart-IR-Gesture-Sensor-p-5721.html) |  infrared camera sensor, AI algorithm, over 15 gestures detection, I2C, SPI
+| Seeed Studio | [Grove - Vision AI Module V2 ](https://www.seeedstudio.com/Grove-Vision-AI-Module-V2-p-5851.html)      |  MCU-based vision AI module powered by Himax WiseEye2, Arm Cortex-M55 & Ethos-U55, TensorFlow and PyTorch 
 | Evil Genius Labs | [One Inch Fibonacci64](https://www.evilgeniuslabs.org/one-inch-fibonacci64) | 64 RGB LEDs in a Fibonacci distribution |
 | Evil Genius Labs | [One Inch Fibonacci32](https://www.evilgeniuslabs.org/one-inch-fibonacci32) | 32 RGB LEDs in a Fibonacci distribution |
 | Evil Genius Labs | [Mega CycloHex](https://www.evilgeniuslabs.org/mega-cyclohex) | Hexagonally-nested rings with 228 RGB LEDs, 6 touch pads via an Adafruit QT Py SAMD21 |
